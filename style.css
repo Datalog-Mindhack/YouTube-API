@@ -1,0 +1,51 @@
+font base{
+    padding: 0px;
+    margin: 0px;
+    height: 5px;
+}
+body{
+    background-color: #eee;
+}
+
+.container{
+    width: 1000px;
+    height: 220vh;
+    background-color: #fff;
+    margin: 0 auto;
+}
+
+header{
+    background-color: #fff;
+
+}
+
+section{
+    width: 600px;
+    top: 100px;
+    padding: 5px;
+}
+.description{
+    text-align: left;
+    text-decoration: solid;
+    display: flexbox;
+}
+.comment{
+    padding: 5px;
+}
+
+.logo{
+     width: 200px;
+     height: 100px;
+}
+main{
+    padding-left: 650px;
+}
+
+.thumb{
+    height: 150px;
+    width: 300px;
+}
+.feature{
+    nav-right: 300px;
+    font-family: 'Times New Roman', Times, serif;
+}
